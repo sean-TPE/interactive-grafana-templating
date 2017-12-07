@@ -1,0 +1,21 @@
+{
+    "type": "panel",
+    "name": "interactive-grafana-templating",
+    "id": "interactive-grafana-templating-panel",
+
+    "info": {
+        "description": "A sample show how to interact with grafana-templating.",
+        "author": {
+            "name": "Seano",
+            "url": ""
+        },
+        "keywords": ["templating", "panel"],
+        "version": "1.0.0",
+        "updated": "2017-12-07"
+    },
+
+    "dependencies": {
+        "grafanaVersion": "3.x.x",
+        "plugins": [ ]
+    }
+}
